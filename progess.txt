@@ -1,0 +1,13 @@
+46-47min
+
+Install Package: reporting in console,
+npm install --legacy-peer-deps three
+
+
+
+02:41min
+
+Creating Email account on - emailjs.com
+
+
+npm run dev
