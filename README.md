@@ -52,7 +52,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git
+
 cd project_3D_developer_portfolio
 Installation
 
